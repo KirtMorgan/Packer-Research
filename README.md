@@ -1,4 +1,5 @@
 # Packer Research
+
 ## What is Packer? :minidisc:
 Packer is an open source tool for creating identical machine images for multiple platforms from a single source configuration. Packer is lightweight, runs on every major operating system, and is highly performant, creating machine images for multiple platforms in parallel. Packer does not replace configuration management like Chef or Puppet. In fact, when building images, Packer is able to use tools like Chef or Puppet to install software onto the image.
 
@@ -11,3 +12,8 @@ As part of this pipeline, the newly created images can then be launched and test
 
 ## Installing packer
 [Click here to view the packer install documentation](https://www.packer.io/intro/getting-started/install.html)
+
+## Packer documentation
+[Click here to view the packer documentation](https://www.packer.io/docs/index.html)
+
+![Packer logo](https://www.datocms-assets.com/2885/1506457192-blog-packer-list.svg)
